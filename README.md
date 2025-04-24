@@ -11,8 +11,8 @@ During this process:
 - The positions of the V atoms remain fixed.
 - Different configurations are tested by replacing W atoms with vacancies.
 - The best configurations are chosen based on two criteria:
--- The average distance between the vacancies.
--- The average distance between each V atom and the surrounding vacancies.
+  - The average distance between the vacancies.
+  - The average distance between each V atom and the surrounding vacancies.
 
 This approach helps understand how atomic structure and vacancy placement affect the properties of W–V alloys.
 
@@ -20,7 +20,7 @@ This approach helps understand how atomic structure and vacancy placement affect
 
 You can find the details for the background in our paper at the following link: [Paper](https://).
 
-![Supercell]()
+![Supercell](https://raw.githubusercontent.com/ergroup/Defect-in-W-V-Alloys/refs/heads/main/atoms_plot_3v_max.png)
 
 ## Contact
 
